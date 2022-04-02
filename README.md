@@ -1,2 +1,2 @@
 # first-project-challange-repository
-Primeiro desafio de projeto
+Primeiro desafio de projeto para git/github
